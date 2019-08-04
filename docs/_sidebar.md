@@ -1,5 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-* [Verbs](/verbs/README.md)
-* [name](verbs/name.md)
+* [Grammar](/grammar/README.md)
+    * [Basic](/grammar/basic_grammar_in_use.md)

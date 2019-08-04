@@ -1,3 +1,3 @@
-# Headline
+# English notebook
 
-> An awesome project.
+> Anotações sobre ingles para aprendizado.
