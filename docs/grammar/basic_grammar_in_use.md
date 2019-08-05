@@ -1,22 +1,22 @@
+
 <!-- TOC -->
 
 - [Present](#present)
-    - [1 - am/is/are](#1---amisare)
-    - [2 - am/is/are (questions)](#2---amisare-questions)
-    - [3 -  am doing (present continuos)](#3----am-doing-present-continuos)
-    - [4 - are you doing? (present continuos questions)](#4---are-you-doing-present-continuos-questions)
-    - [5 - I do/work/like, etc (simple present)](#5---i-doworklike-etc-simple-present)
-    - [6 - Do you ... ? (simple present questions)](#6---do-you---simple-present-questions)
-    - [7 - I am doing (present continuos) and I do (simple present)](#7---i-am-doing-present-continuos-and-i-do-simple-present)
-    - [8 - I have ... and I've got ...](#8---i-have--and-ive-got-)
+    - [1. am/is/are](#1-amisare)
+    - [2. am/is/are (questions)](#2-amisare-questions)
+    - [3.  am doing (present continuos)](#3--am-doing-present-continuos)
+    - [4. are you doing? (present continuos questions)](#4-are-you-doing-present-continuos-questions)
+    - [5. I do/work/like, etc (simple present)](#5-i-doworklike-etc-simple-present)
+    - [6. Do you ... ? (simple present questions)](#6-do-you---simple-present-questions)
+    - [7. I am doing (present continuos) and I do (simple present)](#7-i-am-doing-present-continuos-and-i-do-simple-present)
+    - [8. I have ... and I've got ...](#8-i-have--and-ive-got-)
 
 <!-- /TOC -->
-
 ----------------------------------
 
 # Present
 
-## 1 - am/is/are
+## 1. am/is/are
 
 I'm 30 years old    
 I'm a student    
@@ -65,7 +65,7 @@ Here is your key
 |they       | are not  | they aren't    |
 
 
-## 2 - am/is/are (questions)
+## 2. am/is/are (questions)
 
 Am I late?
 Am I wrong?
@@ -103,9 +103,9 @@ Are they tired?
 |are        | they     |?|
 
 
-## 3 -  am doing (present continuos)
-## 4 - are you doing? (present continuos questions)
-## 5 - I do/work/like, etc (simple present)
-## 6 - Do you ... ? (simple present questions)
-## 7 - I am doing (present continuos) and I do (simple present)
-## 8 - I have ... and I've got ...
+## 3.  am doing (present continuos)
+## 4. are you doing? (present continuos questions)
+## 5. I do/work/like, etc (simple present)
+## 6. Do you ... ? (simple present questions)
+## 7. I am doing (present continuos) and I do (simple present)
+## 8. I have ... and I've got ...
