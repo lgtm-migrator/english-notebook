@@ -1,30 +1,13 @@
 # List de verbs
 
-
-#### drink
-
-<iframe 
-  frameborder="0" 
-  width="50"     
-  height="60"
-  src="https://drive.google.com/file/d/1gb1xw9gwqndjlSnUuyh8orcmKAu7f8tv/preview">
-</iframe>
-
-<br>
-
 <audio controls>
-    <source src="http://docs.google.com/uc?export=open&id=1gb1xw9gwqndjlSnUuyh8orcmKAu7f8tv" type="audio/mp3">
+    <source src="http://docs.google.com/uc?export=open&id=1y-qHweIQRsIVaTK-scbw4W7eo_BKv8Bu" type="audio/mp3">
 </audio>
 
 <br>
 
 <audio controls>
-    <source src="http://docs.google.com/uc?export=open&id=1gb1xw9gwqndjlSnUuyh8orcmKAu7f8tv" type="audio/mp3">
-</audio>
-<br>
-
-<audio controls>
-    <source src="http://docs.google.com/uc?export=open&id=1gb1xw9gwqndjlSnUuyh8orcmKAu7f8tv" type="audio/mp3">
+    <source src="http://docs.google.com/uc?export=open&id=1zrejN1UFFB-w3-jLZGJed6-3pkrtFLUf" type="audio/mp3">
 </audio>
 
 <br>
