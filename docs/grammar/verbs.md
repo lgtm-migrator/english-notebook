@@ -1,10 +1,4 @@
-# List de verbs 
-
-#### take
-
-<audio controls>
-    <source src="../media/take.mp3" type="audio/mpeg">
-</audio>
+# List de verbs
 
 
 #### drink
