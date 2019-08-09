@@ -2,5 +2,7 @@
 **venv
 **.vscode
 **media
-gdrive
+**data/audios
+**data/images
+
 
