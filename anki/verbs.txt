@@ -1,0 +1,43 @@
+<img src="tell.jpg"><br>[sound:tell.mp3];tell
+<img src="look.jpg"><br>[sound:look.mp3];look
+[sound:across.mp3];across
+<img src="meet.jpg"><br>[sound:meet.mp3];meet
+[sound:run.mp3];run
+[sound:work.mp3];work
+<img src="write.png"><br>[sound:write.mp3];write
+<img src="make.jpg"><br>[sound:make.mp3];make
+[sound:teach.mp3];teach
+<img src="like.jpg"><br>[sound:like.mp3];like
+[sound:walk.mp3];walk
+<img src="drink.jpg"><br>[sound:drink.mp3];drink
+[sound:play.mp3];play
+<img src="can.gif"><br>[sound:can.mp3];can
+[sound:be.mp3];be
+<img src="wake.jpg"><br>[sound:wake.mp3];wake
+<img src="say.jpg"><br>[sound:say.mp3];say
+[sound:kind.mp3];kind
+[sound:come.mp3];come
+<img src="sleep.png"><br>[sound:sleep.mp3];sleep
+<img src="see.jpg"><br>[sound:see.mp3];see
+[sound:have.mp3];have
+<img src="read.gif"><br>[sound:read.mp3];read
+[sound:sing.mp3];sing
+[sound:get.mp3];get
+<img src="eat.jpg"><br>[sound:eat.mp3];eat
+<img src="know.jpg"><br>[sound:know.mp3];know
+<img src="take.jpg"><br>[sound:take.mp3];take
+<img src="want.jpg"><br>[sound:want.mp3];want
+<img src="think.png"><br>[sound:think.mp3];think
+[sound:study.mp3];study
+[sound:wait.mp3];wait
+<img src="go.jpg"><br>[sound:go.mp3];go
+<img src="talk.jpg"><br>[sound:talk.mp3];talk
+[sound:speak.mp3];speak
+[sound:lie.mp3];lie
+<img src="need.jpg"><br>[sound:need.mp3];need
+<img src="do.jpg"><br>[sound:do.mp3];do
+[sound:buy.mp3];buy
+[sound:ride.mp3];ride
+[sound:remember.mp3];remember
+<img src="find.jpg"><br>[sound:find.mp3];find
+[sound:sun.mp3];sun

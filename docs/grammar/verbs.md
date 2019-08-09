@@ -8,6 +8,20 @@
 
 <audio controls>
     <source src="http://docs.google.com/uc?export=open&id=1zrejN1UFFB-w3-jLZGJed6-3pkrtFLUf" type="audio/mp3">
-</audio>
+</audio>O
 
 <br>
+
+<br>
+
+## teste
+
+```python
+import os
+
+for x in range(10):
+    print(x)
+
+```
+
+<img src="https://drive.google.com/uc?id=1ulauMlT8_S4PCqfTSTkrojB-qaquOl95">

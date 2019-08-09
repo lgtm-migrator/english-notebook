@@ -8,7 +8,7 @@ def speech(text, lang='en'):
     s.save('media/{}.mp3'.format(text))
 
 
-#"//body//div//span[@class='icon icon-audio']"
+#"//body//div//span[@class='icon icon-audios']"
 
 if __name__ == '__main__':
     if len(sys.argv) == 2:

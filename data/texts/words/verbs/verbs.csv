@@ -1,0 +1,49 @@
+word;ptbr;audio;image;pos
+ask;perguntar;ask.mp3;;verb
+be;ser estar;be.mp3;;verb
+become;tornar-se;become.mp3;;verb
+begin;começar;begin.mp3;;verb
+call;chamar;call.mp3;;verb
+can;poder;can.mp3;can.gif;verb
+come;vir;come.mp3;;verb
+could;para poder;;;verb
+do;façam;do.mp3;do.jpg;verb
+feel;sentir;;;verb
+find;encontrar;find.mp3;find.jpg;verb
+get;para obter;get.mp3;;verb
+give;dar;give.mp3;;verb
+go;ir;go.mp3;go.jpg;verb
+have;Ter;have.mp3;;verb
+hear;ouvir;hear.mp3;;verb
+help;ajudar;help.mp3;;verb
+keep;manter;keep.mp3;;verb
+know;saber;know.mp3;know.jpg;verb
+leave;deixar;;;verb
+let;deixar;;;verb
+like;gostar;like.mp3;like.jpg;verb
+live;viver;;;verb
+look;olhar;look.mp3;look.jpg;verb
+make;fazer;make.mp3;make.jpg;verb
+may;poder;;;verb
+mean;significar;;;verb
+might;para poder;;;verb
+move;mover;;;verb
+need;precisar;need.mp3;need.jpg;verb
+play;jogar;play.mp3;;verb
+put;colocar;;;verb
+run;para correr;run.mp3;;verb
+say;dizer;say.mp3;say.jpg;verb
+see;ver;see.mp3;see.jpg;verb
+should;deve deveria;;;verb
+show;mostrar;;;verb
+start;para iniciar;;;verb
+take;pegar;take.mp3;take.jpg;verb
+talk;falar;talk.mp3;talk.jpg;verb
+tell;contar;tell.mp3;tell.jpg;verb
+think;pensar;think.mp3;;verb
+try;tentar;;;verb
+turn;virar;;;verb
+use;usar;;;verb
+want;querer;want.mp3;want.jpg;verb
+will;ter vontade;;;verb
+work;trabalhar;work.mp3;;verb
