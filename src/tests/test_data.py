@@ -1,5 +1,5 @@
 from unittest import TestCase
-from data import load, audio, image
+from data import load, image, audio
 
 from os import path
 

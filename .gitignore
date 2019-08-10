@@ -4,5 +4,6 @@
 **media
 **data/audios
 **data/images
+**src/__pycache__
 
 
