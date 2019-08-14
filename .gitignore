@@ -5,5 +5,7 @@
 **data/audios
 **data/images
 **src/__pycache__
-
+#*.mp3
+data/audios
+data/images
 
